@@ -3,7 +3,7 @@
 <!--
 **VIJU15/VIJU15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Profile views](https://komarev.com/ghpvc/?username=viju15&label=Profile%20Views&color=red)](https://github.com/viju15)
+![Profile views](https://komarev.com/ghpvc/?username=VIJU15&color=blue&style=flat-square&label=Profile+Views)
 
 Here are some ideas to get you started:
 
