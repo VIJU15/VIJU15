@@ -3,8 +3,6 @@
 <!--
 **VIJU15/VIJU15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Profile views](https://komarev.com/ghpvc/?username=VIJU15&color=blue&style=flat-square&label=Profile+Views)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +17,6 @@ Here are some ideas to get you started:
 ## 🎯 **VIJU Github Stats**
 
 ![viju github stats](https://github-readme-stats.vercel.app/api?username=viju15&show_icons=true&theme=tokyonight)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=VIJU15&color=blue&style=flat-square&label=Profile+Views)
